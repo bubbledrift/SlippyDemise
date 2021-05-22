@@ -33,7 +33,8 @@ public final class Vec2d implements Serializable {
 	 * Since {@link Vec2d} instances are immutable, their x and y fields may be
 	 * accessed without getters.
 	 */
-	public final double x, y;
+	public double x;
+    public final double y;
 
 	/**
 	 * Constructor. Creates a new instance from a value
@@ -66,7 +67,7 @@ public final class Vec2d implements Serializable {
 	 * Constructor. Creates a new instance from an existing Vec2f {@code float}
 	 * s.
 	 * 
-	 * @param f
+	 * @param v
 	 *            the {@code Vec2f} from which to copy the values
 	 */
 	public Vec2d(Vec2d v) {
@@ -84,6 +85,13 @@ public final class Vec2d implements Serializable {
 	public Vec2d(Vec2i i) {
 		this.x = i.x;
 		this.y = i.y;
+	}
+
+	public static Vec2d fromString(String vector){
+		if(vector.length() < 5) return null; //ill formed string
+		String[] args = vector.substring(1,vector.length()-1).split(", ");
+		if(args.length != 2) return null; //wrong number of args or ill formed
+		return new Vec2d(Double.parseDouble(args[0]), Double.parseDouble(args[1]));
 	}
 
 	/**

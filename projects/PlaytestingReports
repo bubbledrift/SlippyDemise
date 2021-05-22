@@ -1,0 +1,100 @@
+Final 4:
+
+Alex Playtest 1: Little Brother
+Found various bugs that are now fixed.
+Coin pickup is a little finicky(probably wont be fixed)
+"Would be funny if you could hit the NPCs"
+Could have randomly generated content for more playability.
+Would be nice to have more content inside the houses. More than just a barrel.
+
+Alex Playtest 2: Dad
+"Cool, I liked it."
+Coin pickup is a little finicky.
+Dialogue starts right after it was finished.
+
+Alex Playtest 3: Mom
+Coins look very nice.
+Dialogue starts right after it was finished.
+
+Miru Playtest 1: Friend with lots of gaming experience.
+
+Overall lots of good things to say about the game. Commented that the sound of picking up coins sometimes
+covered up more important sounds like player damage, so having an audio hierarchy would be nice. Additionally
+mentioned that knockback to the player and enemies when hit, as well as invicibility frames for both enemies
+and the player would be great. Felt like combat could be cheesed and was a little too extreme in the damage
+dealt and received because of the lack of i-frames.
+
+Miru Playtest 2: Sister with some gaming experience.
+
+Really enjoyed the game, but found the dialogue a little cumbersome and unintuitive in its controls. Additionally,
+felt the game was too hard. The final boss's hp was since adjusted. Really liked the audio and the weapon switching.
+
+Miru Playtest 3: Mom with minimal gaming experience.
+
+Again really enjoyed the experience and had some comments about aesthetics, but not too many things to say
+about the actual game. Felt like the game was too dark in some areas and that some things (controls) could be
+better explained outside of the controls page and in the actual game.
+
+###################################################
+Final 3:
+
+Alex Playtest 1: Brother with very little gaming experience.
+"Very good".
+Cave level needs to be finished.
+Would be nice to have procedural generation.
+More enemies.
+Different weapons.
+
+Alex Playtest 2: Mom
+Good design, nice colors, interesting movements through not a completely flat world.
+Stumps don't do anything but look like they should.
+Can't see behind trees.
+Better Dialog.
+Finish later levels.
+
+Miru Playtest 1: Friend with extraordinary gaming experience
+Wanted some more interactable things in the first area, felt like the game looked a lot better but
+still lacked interactable content. Also was confused by the keys needed to be pressed to advance dialogue.
+Found an edge case where an enemy could push the player through the wall. Commented that stopping when attacking
+felt a little clunky.
+
+Miru Playtest 2: Sister with moderate gaming experience
+My sister also seemed to struggle a bit with the controls for dialogue as well, and was a little confused as to
+the game's direction and what exactly to do. There should definitely be more clear instructions/indicators
+in the actual game. Additionally, commented that she liked the decoration we did.
+
+###################################################
+
+
+Final 2:
+
+Alex Playtest 1: Dad, little to no gaming experience. Lived before personal computers.
+Impression: Cool
+What to add:
+1) Action. Enemies to defeat, Items to collect with benefits.
+2) Friends, like a dog
+3) Different items and switching between them
+4) Quest system??
+
+Alex Playtest 2: Brother, significant gaming experience.
+Impression: Interesting, the world border is unexpected
+What to add:
+No indication of damage for enemy.
+Show key mapping for game.
+Stair tile for left and right wall doesn't have grass at the bottom.
+
+
+Miru Playtest 1: Friend with extraordinary gaming experience
+
+Apart from comments about graphics the subject seemed pretty satisfied by the game. Perhaps we could
+tweak walking animations to make it look more natural. There was a comment that the character felt slow,
+but that may be due to us having a large world with nothing to interact with. Otherwise, they were excited to
+see what else could be done with a more polished game and more things to interact with.
+
+Miru Playtest 2: Sister with moderate gaming experience
+
+The main feedback I got from my sister was that the "evil boss was not very scary." Other than that, I noticed
+that she had a slightly hard time figuring what walls were and what places were accessible or not. It's hard to tell
+if this is because of a lack of gaming experience, or a lack of clarity on our part, as it seems pretty clear to
+me and my other playtester. Additionally, she couldn't figure out that you could hold down space bar to continuously
+attack, so perhaps that could be more explicitly stated.
