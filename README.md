@@ -1,4 +1,6 @@
-test2
+GIF Test
+
+![test image](https://github.com/bubbledrift/myslippycopy/blob/master/READMEgifs/slippyclip.gif?raw=true)
 
 Miru Yang: B01530353
 
