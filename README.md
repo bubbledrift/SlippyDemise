@@ -1,4 +1,4 @@
-![menu image](https://github.com/bubbledrift/myslippycopy/blob/master/READMEgifs/slippymenu.gif?raw=true)
+![menu image](https://github.com/bubbledrift/SlippyDemise/blob/master/READMEgifs/slippymenu.gif?raw=true)
 
 This is a short top-down adventure game made using JavaFX. This game was made in collaboration with
 Alexander Ivanov as our final project for the course 2D Game Engines. The engine was built by us over the 
@@ -9,9 +9,9 @@ In order to play the game for yourself, clone the repository to your device and 
 file `final-project-slippy.jar` to launch the game. Instructions for how to play the game are included in
 the menu.
 
-![exploration image](https://github.com/bubbledrift/myslippycopy/blob/master/READMEgifs/slippyclip.gif?raw=true)
-![dialogue image](https://github.com/bubbledrift/myslippycopy/blob/master/READMEgifs/slippytalk.gif?raw=true)
-![indoors image](https://github.com/bubbledrift/myslippycopy/blob/master/READMEgifs/slippyindoors.gif?raw=true)
-![cave image](https://github.com/bubbledrift/myslippycopy/blob/master/READMEgifs/slippycave.gif?raw=true)
-![combat image](https://github.com/bubbledrift/myslippycopy/blob/master/READMEgifs/slippycombat1.gif?raw=true)
+![exploration image](https://github.com/bubbledrift/SlippyDemise/blob/master/READMEgifs/slippyclip.gif?raw=true)
+![dialogue image](https://github.com/bubbledrift/SlippyDemise/blob/master/READMEgifs/slippytalk.gif?raw=true)
+![indoors image](https://github.com/bubbledrift/SlippyDemise/blob/master/READMEgifs/slippyindoors.gif?raw=true)
+![cave image](https://github.com/bubbledrift/SlippyDemise/blob/master/READMEgifs/slippycave.gif?raw=true)
+![combat image](https://github.com/bubbledrift/SlippyDemise/blob/master/READMEgifs/slippycombat1.gif?raw=true)
 
